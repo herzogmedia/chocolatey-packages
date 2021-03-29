@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>ultraschall</id>
+    <version>5.0.2</version>
+    <packageSourceUrl>https://github.com/herzogmedia/chocolatey-packages</packageSourceUrl>
+    <owners>Lukas Herzog (JS Mainz)</owners>
+    <!-- ============================== -->
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <!-- This section is about the software itself -->
+    <title>Ultraschall (Install)</title>
+    <authors>ultraschall.fm</authors>
+    <projectUrl>https://ultraschall.fm</projectUrl>
+    <iconUrl>https://avatars.githubusercontent.com/u/6959637?s=200&v=4</iconUrl>
+    <copyright>Copyright (c) 2019 Ultraschall</copyright>
+    <licenseUrl>https://github.com/Ultraschall/ultraschall-plugin/blob/develop/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/Ultraschall/ultraschall-plugin</projectSourceUrl>
+    <docsUrl>https://ultraschall.fm/tutorials/</docsUrl>
+    <tags>ultraschall reaper audio podcast daw</tags>
+    <summary>Podcasting Extension for REAPER</summary>
+    <description>__REPLACE__MarkDown_Okay </description>
+    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
+    <!-- =============================== -->      
+
+    <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
+    <dependencies>
+      <dependency id="reaper" version="[6.25]" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

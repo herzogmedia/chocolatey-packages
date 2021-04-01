@@ -13,7 +13,7 @@
     <title>Ultraschall (Install)</title>
     <authors>ultraschall.fm</authors>
     <projectUrl>https://ultraschall.fm</projectUrl>
-    <iconUrl>https://avatars.githubusercontent.com/u/6959637?s=200&v=4</iconUrl>
+    <iconUrl>https://avatars.githubusercontent.com/u/6959637</iconUrl>
     <copyright>Copyright (c) 2019 Ultraschall</copyright>
     <licenseUrl>https://github.com/Ultraschall/ultraschall-plugin/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>

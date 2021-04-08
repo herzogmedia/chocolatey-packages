@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>ultraschall</id>
-    <version>5.0.2</version>
+    <version>5.0.3</version>
     <packageSourceUrl>https://github.com/herzogmedia/chocolatey-packages</packageSourceUrl>
     <owners>Lukas Herzog (JS Mainz)</owners>
     <!-- ============================== -->
@@ -27,7 +27,7 @@
 
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>
-      <dependency id="reaper" version="[6.25]" />
+      <dependency id="reaper" version="[6.26]" />
     </dependencies>
   </metadata>
   <files>

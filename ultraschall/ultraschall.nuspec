@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>ultraschall</id>
-    <version>5.0.3</version>
+    <version>5.0.3.1</version>
     <packageSourceUrl>https://github.com/herzogmedia/chocolatey-packages</packageSourceUrl>
     <owners>Lukas Herzog (JS Mainz)</owners>
     <!-- ============================== -->
@@ -21,13 +21,14 @@
     <docsUrl>https://ultraschall.fm/tutorials/</docsUrl>
     <tags>ultraschall reaper audio podcast daw</tags>
     <summary>Podcasting Extension for REAPER</summary>
-    <description>__REPLACE__MarkDown_Okay </description>
+    <description>Ultraschall-Mod for Reaper
+    Version 5.0.3.1 depends on Reaper 6.27</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
     <!-- =============================== -->      
 
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>
-      <dependency id="reaper" version="[6.26]" />
+      <dependency id="reaper" version="[6.27]" />
     </dependencies>
   </metadata>
   <files>

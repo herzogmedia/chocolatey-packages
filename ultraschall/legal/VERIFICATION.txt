@@ -7,9 +7,9 @@ Package can be verified like this:
  
 1. Download:
 
-Download latest binary (5.0.2) https://files.rstockm.de/index.php/s/E7BQzY6rWiQXdxb/download
+Download latest binary (5.0.3) https://files.rstockm.de/index.php/s/YmXZwFMT6ifT7FM/download
   
 2. Use one checksum.exe -t sha256 to obtain SHA256 checksum:
 
    checksum type: sha256
-   checksum: F8EB295E4C816F0A52029C9398C50C700430BCBEEE28EB10793E74B566E14703
+   checksum: 1591DEF7E4CA32F268026665853697709B2A1761AE28088CF238F75BCE0382EF

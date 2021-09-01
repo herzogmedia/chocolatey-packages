@@ -21,7 +21,7 @@
     <docsUrl>https://ultraschall.fm/tutorials/</docsUrl>
     <tags>ultraschall reaper audio podcast daw</tags>
     <summary>Podcasting Extension for REAPER</summary>
-    <description>Podlove](http://podlove.org/) and [Auphonic](https://auphonic.com/) handed us podcast producers powerful tools, but an optimized environment for the actual recording and production of the podcasts was missing.
+    <description>[Podlove](http://podlove.org/) and [Auphonic](https://auphonic.com/) handed us podcast producers powerful tools, but an optimized environment for the actual recording and production of the podcasts was missing.
 
 The various DAWs (digital audio workstations) have their own pros and cons in terms of costs and features. [Reaper](http://www.reaper.fm/) is hitting a widely recognized sweet spot here: for the slim [price of 60 USD](http://www.reaper.fm/purchase.php) one obtains the Swiss army officer's knife of DAWs, developed by audio nerds (the [old Winamp team](https://en.wikipedia.org/wiki/Winamp#History)). One problem, though: [Reaper](http://www.reaper.fm/)'s aesthetics -- rooted in the Windows world -- are a medium impertinence. Additionally, dozens of presets are well-tuned for music production, but out-of-the-box these are nearly **absurdly wrong** for us podcasters, such as the use of musical bars as time units.
 
@@ -29,7 +29,7 @@ The various DAWs (digital audio workstations) have their own pros and cons in te
 
 - **Design.** A simple, minimalistic impression is aspired to. Distracting ornaments are unwelcome. Superfluous or redundant icons and menu entries are rigorously removed.
 - **Guided by workflow.** Podcasters produce completely differently from musicians. We usually have the three phases of preparation, (live) show and post-production. Ultraschall's program composition is guided by these three phases and one can switch between the respective views back and forth at will.
-- **Rapid access to podcast features.**
+- **Rapid access to podcast features.** [See here](https://github.com/Ultraschall/ultraschall-plugin/blob/develop/docs/README.md)
 
 
 ### Contact Ultraschall

@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>ultraschall</id>
-    <version>5.0.3.1</version>
+    <version>5.0.3</version>
     <packageSourceUrl>https://github.com/herzogmedia/chocolatey-packages</packageSourceUrl>
     <owners>Lukas Herzog (JS Mainz)</owners>
     <!-- ============================== -->
@@ -26,7 +26,7 @@
 ### Why Ultraschall?
 An optimized DAW for podcast production has long been missing. "Normal" DAWs all have their pros and cons, featurewise or financial. REAPER sits in a sweetspot: it is very capable for its small price. However the interface and the out of the box experience are geared towards music production and quite hindering for podcasters. Ultraschall optimizes REAPER as much as possible for high end podcast production. A DAW from podcasters for podcasters.
 
-Version 5.0.3.1 depends on Reaper 6.27</description>
+Version 5.0.3 depends on Reaper 6.27</description>
     <!-- =============================== -->      
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>

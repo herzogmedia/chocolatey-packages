@@ -13,7 +13,7 @@
     <title>Ultraschall (Install)</title>
     <authors>ultraschall.fm</authors>
     <projectUrl>https://ultraschall.fm</projectUrl>
-    <iconUrl>https://avatars.githubusercontent.com/u/6959637</iconUrl>
+    <iconUrl>https://ultraschall.fm/wp-content/uploads/2021/03/Ultraschall-5-Logo.png</iconUrl>
     <copyright>Copyright (c) 2019 Ultraschall</copyright>
     <licenseUrl>https://github.com/Ultraschall/ultraschall-plugin/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -21,12 +21,33 @@
     <docsUrl>https://ultraschall.fm/tutorials/</docsUrl>
     <tags>ultraschall reaper audio podcast daw</tags>
     <summary>Podcasting Extension for REAPER</summary>
-    <description>Ultraschall is a Mod / Extension for Podcasting in Reaper. It is free and open source, however a valid reaper license is required. 
+    <description>Podlove](http://podlove.org/) and [Auphonic](https://auphonic.com/) handed us podcast producers powerful tools, but an optimized environment for the actual recording and production of the podcasts was missing.
 
-### Why Ultraschall?
-An optimized DAW for podcast production has long been missing. "Normal" DAWs all have their pros and cons, featurewise or financial. REAPER sits in a sweetspot: it is very capable for its small price. However the interface and the out of the box experience are geared towards music production and quite hindering for podcasters. Ultraschall optimizes REAPER as much as possible for high end podcast production. A DAW from podcasters for podcasters.
+The various DAWs (digital audio workstations) have their own pros and cons in terms of costs and features. [Reaper](http://www.reaper.fm/) is hitting a widely recognized sweet spot here: for the slim [price of 60 USD](http://www.reaper.fm/purchase.php) one obtains the Swiss army officer's knife of DAWs, developed by audio nerds (the [old Winamp team](https://en.wikipedia.org/wiki/Winamp#History)). One problem, though: [Reaper](http://www.reaper.fm/)'s aesthetics -- rooted in the Windows world -- are a medium impertinence. Additionally, dozens of presets are well-tuned for music production, but out-of-the-box these are nearly **absurdly wrong** for us podcasters, such as the use of musical bars as time units.
 
-Version 5.0.3 depends on Reaper 6.27</description>
+**Ultraschall optimizes [Reaper](http://www.reaper.fm/) for podcasting as far as humanly possible**. A DAW by podcasters for podcasts. This goal is approached on three levels:
+
+- **Design.** A simple, minimalistic impression is aspired to. Distracting ornaments are unwelcome. Superfluous or redundant icons and menu entries are rigorously removed.
+- **Guided by workflow.** Podcasters produce completely differently from musicians. We usually have the three phases of preparation, (live) show and post-production. Ultraschall's program composition is guided by these three phases and one can switch between the respective views back and forth at will.
+- **Rapid access to podcast features.**
+
+
+### Contact Ultraschall
+
+Ultraschall is Open Source.
+
+- Twitter: @[ultraschall_fm](https://twitter.com/ultraschall_fm)
+- GitHub: <https://github.com/Ultraschall>
+- Support Forum: <https://sendegate.de/c/ultraschall>
+- Project Website, download and blog: <http://ultraschall.fm>
+- Tutorial Screencast on [Youtube](https://www.youtube.com/playlist?list=PLrHlJxVCzpcUF8e0pbt60uSK26JNxbFzG)
+
+### Credits:
+
+The grandiose logo and color scheme was designed by @[graphorama](https://twitter.com/graphorama).
+
+Description taken from Ultraschalls Github Docs. Version 5.0.3 depends on Reaper 6.27</description>
+<releaseNotes>See https://github.com/Ultraschall/ultraschall-plugin/blob/develop/docs/CHANGELOG.md</releaseNotes>
     <!-- =============================== -->      
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>

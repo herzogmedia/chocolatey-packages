@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>ultraschall</id>
-    <version>5.0.3</version>
+    <version>5.1.1</version>
     <packageSourceUrl>https://github.com/herzogmedia/chocolatey-packages</packageSourceUrl>
     <owners>Lukas Herzog (JS Mainz)</owners>
     <!-- ============================== -->
@@ -14,7 +14,7 @@
     <authors>ultraschall.fm</authors>
     <projectUrl>https://ultraschall.fm</projectUrl>
     <iconUrl>https://ultraschall.fm/wp-content/uploads/2021/03/Ultraschall-5-Logo.png</iconUrl>
-    <copyright>Copyright (c) 2019 Ultraschall</copyright>
+    <copyright>Copyright (c) Ultraschall</copyright>
     <licenseUrl>https://github.com/Ultraschall/ultraschall-plugin/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/Ultraschall/ultraschall-plugin</projectSourceUrl>

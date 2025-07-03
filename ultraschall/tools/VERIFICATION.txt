@@ -7,9 +7,9 @@ Package can be verified like this:
  
 1. Download:
 
-Download latest binary (5.0.3) https://files.rstockm.de/index.php/s/YmXZwFMT6ifT7FM/download
+Download latest binary (5.1.1) http://url.wolkenbar.de/us51win
   
 2. Use one checksum.exe -t sha256 to obtain SHA256 checksum:
 
    checksum type: sha256
-   checksum: 1591DEF7E4CA32F268026665853697709B2A1761AE28088CF238F75BCE0382EF
+   checksum: 947EC83A59808CCBFE92441A2AF89350E075A64AE18F451B45ACDE8BFE86F89A

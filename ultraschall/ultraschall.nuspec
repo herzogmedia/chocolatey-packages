@@ -51,7 +51,7 @@ Description taken from Ultraschalls Github Docs. Version 5.0.3 depends on Reaper
     <!-- =============================== -->      
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>
-      <dependency id="reaper" version="[6.27]" />
+      <dependency id="reaper" version="[6.83.0]" />
     </dependencies>
   </metadata>
   <files>

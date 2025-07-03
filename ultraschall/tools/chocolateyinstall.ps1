@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop'; # stop on all errors
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$fileLocation = Join-Path $toolsDir 'Ultraschall-5.0.3.msi'
+$fileLocation = Join-Path $toolsDir 'Ultraschall-5.1.1.msi'
 
 
 $packageArgs = @{
@@ -10,7 +10,7 @@ $packageArgs = @{
   file           = $fileLocation
 
   softwareName   = 'ultraschall*' 
-  checksum       = '1591DEF7E4CA32F268026665853697709B2A1761AE28088CF238F75BCE0382EF'
+  checksum       = '947EC83A59808CCBFE92441A2AF89350E075A64AE18F451B45ACDE8BFE86F89A'
   checksumType   = 'sha256'
   # MSI
   silentArgs     = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`"" # ALLUSERS=1 DISABLEDESKTOPSHORTCUT=1 ADDDESKTOPICON=0 ADDSTARTMENU=0
